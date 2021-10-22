@@ -7,6 +7,7 @@
 	@FechaNacimiento Datetime
 
 
+
 AS BEGIN
 SET NOCOUNT ON
 
